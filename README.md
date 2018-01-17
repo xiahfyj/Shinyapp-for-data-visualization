@@ -1,1 +1,1 @@
-# This is a interactive Shinyapp to show relationship among multiple variables.
+# This is an interactive Shinyapp to show relationship among multiple variables.
